@@ -1,7 +1,11 @@
 h1 {
-    color: black
+    color: black;
 }
 img {
     width: 17px;
     height: 17px;
+}
+
+b {
+    font-weight:normal;
 }
